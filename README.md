@@ -5,7 +5,7 @@
 
 This dashboard analyzing HR workforce demographics : gender, race, age, department, location HQ vs Remote, and 20 year employee growh growth tends
 
-*Description*
+**Description**
 Power BI dashboard analyzing HR workforce demographics: gender, race, age, department, location HQ vs Remote, and 20-year employee growth trends
 HR Analytics dashboard built with Power BI to analyze employee distribution and workforce demographics. Covers gender, age, race, department, location, and employment trends from 2000-2020 to support DEI and workforce planning decisions.
 
@@ -23,4 +23,7 @@ HR Analytics dashboard built with Power BI to analyze employee distribution and 
 3. *Termination Rate by Department*: Highest in Auditing 0.16, Legal 0.12
 4. *Gender Distribution by Department*: Engineering and Accounting have highest headcount
 
-*Tools*: Power BI Desktop, DAX, Power Query
+**Tools**
+ Power BI Desktop, 
+ DAX, 
+ Power Query
