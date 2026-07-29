@@ -1,8 +1,9 @@
 # HR-Employee-Distribution-Report
-This dashboard analyzing HR workforce demographics : gender, race, age, department, location HQ vs Remote, and 20 year employee growh growth tends
+
 <img width="1302" height="740" alt="image 1" src="https://github.com/user-attachments/assets/e595f7c5-cd92-48de-aaad-f41ef919663f" />
 <img width="1312" height="735" alt="image 2" src="https://github.com/user-attachments/assets/f1f1dbb7-116b-47ca-a74c-68f4459b60de" />
 
+This dashboard analyzing HR workforce demographics : gender, race, age, department, location HQ vs Remote, and 20 year employee growh growth tends
 
 *Description*
 Power BI dashboard analyzing HR workforce demographics: gender, race, age, department, location HQ vs Remote, and 20-year employee growth trends
